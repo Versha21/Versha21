@@ -1,4 +1,4 @@
-# I'm Versha Dewangan 👋
+# I'm Versha Dewangan 
 
 ### B.Tech CSE Student | Java • DSA • Web Development | Problem Solving
 
@@ -9,11 +9,6 @@
 
 ## 👩‍💻 About Me
 🎓 I’m Versha Dewangan, currently pursuing a B.Tech in Computer Science and Engineering at @Shri Shankaracharya Technical Campus,   Bhilai (2024–2028).<br>🌱 I’m currently learning Java, Data Structures & Algorithms, and Web Development.<br>🧩 Solved 100+ coding problems on #GeeksforGeeks, while continuously improving my problem-solving skills.<br>🔭  Exploring web technologies and learning by building things along the way.<br>👯 I’m looking to collaborate on open-source and web development projects<br>📖 Beyond coding, I enjoy reading books, exploring history, and learning about things that spark my curiosity.
-##
-
-
-## 🌐 Online Presence
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/versha-dewangan-b7155b398) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vershadewangan8@gmail.com) 
 ##
 
 
