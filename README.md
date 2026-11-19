@@ -30,7 +30,7 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ### 🔧 Version Control & Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+##
 
 
 # 📊 GitHub Stats:
@@ -38,7 +38,5 @@
 ![](https://streak-stats.demolab.com/?user=Versha21&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Versha21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
-isko acche se design krke readme code de
-are ese readme bna ke dena
 
    
