@@ -11,7 +11,7 @@
 ## 👩‍💻 About Me
 🎓 I’m Versha Dewangan, a B.Tech CSE student at Shri Shankaracharya Technical Campus, Bhilai (2024–2028).<br>
 🌱 Learning Java, DSA, and Web Development.<br>
-🧩 Solved 100+ problems on GeeksforGeeks.<br>
+🧩 Solved **100+ coding problems** on [GeeksforGeeks](https://www.geeksforgeeks.org/)<br>
 💻 Interested in web development and open-source collaboration.<br>
 📖 Enjoy reading books and exploring history.
 ##
